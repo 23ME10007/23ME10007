@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, It's Akankshaa 👋
 
-<!--
-**23ME10007/23ME10007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Robotics & Kinematics enthusiast passionate about bridging the gap between hardware dynamics and robust software control loops. 
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, MATLAB
+- **Robotics Concepts:** Forward Kinematics, Inverse Kinematics, Jacobian Analysis, SVD Space Mapping, Dynamics & Control
+- **Tools:** Git/GitHub, NumPy, Pandas, Matplotlib, Modern Robotics Library
+
+### 🔬 Highlighted Projects
+- **[2R Robot Manipulability Analyzer](LINK_TO_YOUR_REPO):** A Python pipeline calculating and mapping velocity manipulability ellipsoids using SVD to identify kinematic isotropy and singular configurations.
+- Stay tuned for more!
