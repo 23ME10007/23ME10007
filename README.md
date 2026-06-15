@@ -10,5 +10,5 @@ I am a Robotics & Kinematics enthusiast passionate about bridging the gap betwee
 - **Tools:** Git/GitHub, NumPy, Pandas, Matplotlib, Modern Robotics Library
 
 ### Highlighted Projects
-- **[2R Robot Manipulability Analyzer](LINK_TO_YOUR_REPO):** A Python pipeline calculating and mapping velocity manipulability ellipsoids using SVD to identify kinematic isotropy and singular configurations.
+- **[2R Robot Manipulability Analyzer](https://github.com/23ME10007/2R-Planar-Robot-Manipulability.git):** A Python pipeline calculating and mapping velocity manipulability ellipsoids using SVD to identify kinematic isotropy and singular configurations.
 - Stay tuned for more!
